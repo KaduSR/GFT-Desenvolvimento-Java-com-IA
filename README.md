@@ -88,7 +88,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 **Licença**
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a [Licença MIT](https://choosealicense.com/licenses/mit/). Veja o arquivo LICENSE para mais detalhes.
 
 
 Sinta-se à vontade para fazer quaisquer ajustes conforme necessário!
